@@ -1,0 +1,42 @@
+{
+   "codigoRetorno":"00",
+   "descricaoRetorno":"Consulta realizada com sucesso.",
+   "propostas":[
+      {
+         "numeroProposta":"123456789012345678901",
+         "dataProposta":"09-12-2019 00:00:00",
+         "codigoMotivoRejeicao":null,
+         "descricaoMotivoRejeicao":null,
+         "numeroMerchant":"98765432",
+         "codigoCredenciador":"1",
+         "indicadorEcommerce":"0",
+         "statusPropostas":[
+            {
+               "codigoStatusProposta":"400",
+               "descricaoStatusProposta":"Boarded to BWA",
+               "dataStatusProposta":"09-12-2019 10:36:09"
+            },
+            {
+               "codigoStatusProposta":"765",
+               "descricaoStatusProposta":"Credit Approved",
+               "dataStatusProposta":"09-12-2019 07:51:03"
+            },
+            {
+               "codigoStatusProposta":"077",
+               "descricaoStatusProposta":"Pending QC",
+               "dataStatusProposta":"09-12-2019 07:15:03"
+            },
+            {
+               "codigoStatusProposta":"270",
+               "descricaoStatusProposta":"QC Submitted",
+               "dataStatusProposta":"09-12-2019 07:15:03"
+            },
+            {
+               "codigoStatusProposta":"888",
+               "descricaoStatusProposta":"QC Approved",
+               "dataStatusProposta":"09-12-2019 07:15:03"
+            }
+         ]
+      }
+   ]
+}

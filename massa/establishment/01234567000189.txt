@@ -1,0 +1,170 @@
+{
+  "codigoRetorno": "00",
+  "descricaoRetorno": "Consulta realizada com sucesso.",
+  "estabelecimentos": [
+    {
+      "cnae": "5611203",
+      "codStatusMerchant": "001",
+      "contato": {
+        "indicadorPep": "000",
+        "nome": "Chamila",
+        "telefone": "",
+        "telefoneCelular": "019999988887",
+        "telefoneComercial": "019999988887"
+      },
+      "dataAfiliacao": "20191209",
+      "descStatusMerchant": "Ativo",
+      "descTipoCanalBoarding": "01. BANCO",
+      "domiciliosBancario": [
+        {
+          "codigoBandeira": "024",
+          "codigoProduto": "001",
+          "dataFimTrava": "",
+          "dataInicioTrava": "",
+          "numAgencia": "Inserir Agência",
+          "numBanco": "Inserir Banco",
+          "numContaCorrente": "Inserir Conta"
+        },
+        {
+          "codigoBandeira": "003",
+          "codigoProduto": "001",
+          "dataFimTrava": "",
+          "dataInicioTrava": "",
+          "numAgencia": "Inserir Agência",
+          "numBanco": "Inserir Banco",
+          "numContaCorrente": "Inserir Conta"
+        },
+        {
+          "codigoBandeira": "003",
+          "codigoProduto": "002",
+          "dataFimTrava": "",
+          "dataInicioTrava": "",
+          "numAgencia": "Inserir Agência",
+          "numBanco": "Inserir Banco",
+          "numContaCorrente": "Inserir Conta"
+        },
+        {
+          "codigoBandeira": "002",
+          "codigoProduto": "001",
+          "dataFimTrava": "",
+          "dataInicioTrava": "",
+          "numAgencia": "Inserir Agência",
+          "numBanco": "Inserir Banco",
+          "numContaCorrente": "Inserir Conta"
+        },
+        {
+          "codigoBandeira": "004",
+          "codigoProduto": "001",
+          "dataFimTrava": "",
+          "dataInicioTrava": "",
+          "numAgencia": "Inserir Agência",
+          "numBanco": "Inserir Banco",
+          "numContaCorrente": "Inserir Conta"
+        },
+        {
+          "codigoBandeira": "002",
+          "codigoProduto": "002",
+          "dataFimTrava": "",
+          "dataInicioTrava": "",
+          "numAgencia": "Inserir Agência",
+          "numBanco": "Inserir Banco",
+          "numContaCorrente": "Inserir Conta"
+        },
+        {
+          "codigoBandeira": "025",
+          "codigoProduto": "001",
+          "dataFimTrava": "",
+          "dataInicioTrava": "",
+          "numAgencia": "Inserir Agência",
+          "numBanco": "Inserir Banco",
+          "numContaCorrente": "Inserir Conta"
+        },
+        {
+          "codigoBandeira": "025",
+          "codigoProduto": "002",
+          "dataFimTrava": "",
+          "dataInicioTrava": "",
+          "numAgencia": "Inserir Agência",
+          "numBanco": "Inserir Banco",
+          "numContaCorrente": "Inserir Conta"
+        }
+      ],
+      "enderecoComercial": {
+        "bairro": "Centro",
+        "cep": "13857000",
+        "cidade": "ESTIVA GERBI",
+        "complemento": "",
+        "email": "LGPD",
+        "endereco": "LGPD",
+        "estado": "SP",
+        "numero": "LGPD"
+      },
+      "enderecoPadrao": {
+        "bairro": "Centro",
+        "cep": "13857000",
+        "cidade": "ESTIVA GERBI",
+        "complemento": "",
+        "email": "LGPD",
+        "endereco": "LGPD",
+        "estado": "SP",
+        "numero": "LGPD"
+      },
+      "horarioFuncionamento": [
+        {
+          "diaSemana": "Domingo",
+          "horarioEntrada": "00:00",
+          "horarioSaida": "00:00"
+        },
+        {
+          "diaSemana": "Segunda-feira",
+          "horarioEntrada": "10:00",
+          "horarioSaida": "16:00"
+        },
+        {
+          "diaSemana": "Terça-feira",
+          "horarioEntrada": "10:00",
+          "horarioSaida": "16:00"
+        },
+        {
+          "diaSemana": "Quarta-feira",
+          "horarioEntrada": "10:00",
+          "horarioSaida": "16:00"
+        },
+        {
+          "diaSemana": "Quinta-feira",
+          "horarioEntrada": "10:00",
+          "horarioSaida": "16:00"
+        },
+        {
+          "diaSemana": "Sexta-feira",
+          "horarioEntrada": "10:00",
+          "horarioSaida": "16:00"
+        },
+        {
+          "diaSemana": "Sábado",
+          "horarioEntrada": "00:00",
+          "horarioSaida": "00:00"
+        }
+      ],
+      "motivoCancelamento": null,
+      "nomeEstabelecimento": "LGPD",
+      "nomeFantasia": "LGPD",
+      "numeroMerchant": "98765432",
+      "socios": [
+        {
+          "celular": "",
+          "cpf": "LGPD",
+          "dataNascimento": "LGPD",
+          "nome": "LGPD"
+        }
+      ],
+      "ticketMedio": "000000000000050.00",
+      "tipoCanalBoarding": "019",
+      "tipoDocumento": "CNPJ",
+      "totalCredDeb": "",
+      "totalMoedaCredDeb": "",
+      "ultimaAtualizacaoCadastral": "20191209",
+      "webSite": ""
+    }
+  ]
+}
