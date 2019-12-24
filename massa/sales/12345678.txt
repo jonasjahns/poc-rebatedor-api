@@ -1,0 +1,59 @@
+{
+  "codigoRetorno": "string",
+  "descricaoRetorno": "string",
+  "first": "string",
+  "last": "string",
+  "pageNumber": "string",
+  "size": "string",
+  "sumarizacao": [
+    {
+      "codTipoTransacao": "string",
+      "codigoBandeira": "string",
+      "codigoProduto": "string",
+      "data": "string",
+      "descTipoTransacao": "string",
+      "descricaoBandeira": "string",
+      "descricaoProduto": "string",
+      "quantidade": "string",
+      "valorBrutoMedio": "string",
+      "valorBrutoParcela": "string",
+      "valorDescontoParcela": "string",
+      "valorLiquidoMedio": "string",
+      "valorLiquidoParcela": "string"
+    }
+  ],
+  "totalElements": "string",
+  "totalPages": "string",
+  "vendas": [
+    {
+      "codAutorizacao": "string",
+      "codBandeira": "string",
+      "codProdutoTransacao": "string",
+      "codTipoCartao": "string",
+      "codTipoTerminal": "string",
+      "codTipoTransacao": "string",
+      "comprovante": "string",
+      "dataPrevistaPagto": "string",
+      "dataTransacao": "string",
+      "descBandeira": "string",
+      "descProdutoTransacao": "string",
+      "descTipoCartao": "string",
+      "descTipoTerminal": "string",
+      "descTipoTransacao": "string",
+      "horaTransacao": "string",
+      "indicadorCancelVenda": "string",
+      "indicadorCredDeb": "string",
+      "numCartao": "string",
+      "numTerminal": "string",
+      "numeroParcela": "string",
+      "numeroParcelado": "string",
+      "numeroResumoVenda": "string",
+      "numeroTransacao": "string",
+      "qtdeParcelas": "string",
+      "valorBrutoParcela": "string",
+      "valorDescontoParcela": "string",
+      "valorLiquidoParcela": "string",
+      "valorTotalPlano": "string"
+    }
+  ]
+}

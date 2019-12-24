@@ -1,0 +1,27 @@
+{
+  "codigoRetorno": "00",
+  "descricaoRetorno": "Success.",
+  "numeroInstituicao": "00000004",
+  "numeroMerchant": "39379276",
+  "terminal": [
+    {
+      "browserVersion": null,
+      "currentVersion": null,
+      "descricaoModeloTerminal": "POS Link2500 2G",
+      "deviceId": "POS Link2500 2G Fee",
+      "effectiveDate": "20190703",
+      "expireDate": "99991231",
+      "feeBase": "000000.0000",
+      "feeMax": "000000.0000",
+      "feeMin": "000000.0000",
+      "feeMode": "001",
+      "feePercentage": "0.00",
+      "infoTerminal": null,
+      "lastVisit": null,
+      "modeloTerminal": "382",
+      "numeroLogico": "MVB0025C",
+      "numeroSerie": "66913111105530190604",
+      "status": "ACTIVE"
+    }
+  ]
+}
