@@ -1,0 +1,29 @@
+{
+  "numeroInstituicao": "00000004",
+  "numeroMerchant": "40648628",
+  "codigoRetorno": null,
+  "descricaoRetorno": null,
+  "ordemServico": [
+    {
+      "osNumero": "000400345646",
+      "osData": "03/10/2019",
+      "numeroLogico": "PGW63527",
+      "numeroTerminal": "527-072-332",
+      "osStatus": "C",
+      "osStatusDescricao": "FECHADO",
+      "numero": "561",
+      "contratoServico": "110",
+      "estado": "SP",
+      "cep": "16280000",
+      "endereco": "AVENIDA CASTILHO",
+      "cidade": "GLICERIO",
+      "complemento": "",
+      "bairro": "JURITIS",
+      "razaoSocial": "ROSANIA NASCIMENTO DOS SANTOS 30496678850",
+      "nomeFantasia": "PANIFICADORA PADOCA",
+      "osTipo": "400000",
+      "osTipoDescricao": "INSTALAÇÃO",
+      "slaEntregaEquipamento": null
+    }
+  ]
+}

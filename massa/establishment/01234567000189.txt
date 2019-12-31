@@ -149,7 +149,7 @@
       "motivoCancelamento": null,
       "nomeEstabelecimento": "LGPD",
       "nomeFantasia": "LGPD",
-      "numeroMerchant": "98765432",
+      "numeroMerchant": "12345678",
       "socios": [
         {
           "celular": "",

@@ -13,6 +13,7 @@ def helloworld():
 
 
 @app.route("/acquirer-status/acquirerstatus/<cpfcnpj>")
+@app.route("/acquirer-status/acquirerstatus/00000004/<cpfcnpj>")
 def acquirer_status(cpfcnpj):
     """
     Versão 1.1 da API de statuso do estabelecimento
@@ -23,6 +24,7 @@ def acquirer_status(cpfcnpj):
 
 
 @app.route("/establishment/searchestablishment/<cpfcnpj>")
+@app.route("/establishment/searchestablishment/00000004/<cpfcnpj>")
 def establishment(cpfcnpj):
     """
     Versão 1.0 da API de status do estabelecimento
@@ -32,6 +34,7 @@ def establishment(cpfcnpj):
 
 
 @app.route("/sale/consultsale/realizadas/<merchant>/<datainicio>/<datafim>")
+@app.route("/sale/consultsale/00000004/realizadas/<merchant>/<datainicio>/<datafim>")
 def sales(merchant, datainicio, datafim):
     """
         Versão 1.0 da API de vendas
@@ -42,6 +45,7 @@ def sales(merchant, datainicio, datafim):
 
 
 @app.route("/terminal/consultterminal/<merchant>")
+@app.route("/terminal/consultterminal/00000004/<merchant>")
 def terminal(merchant):
     """
         Versão 1.0 da API de vendas
@@ -51,12 +55,18 @@ def terminal(merchant):
 
 
 @app.route("/mdr-fees/getmdrfees/<merchant>")
+@app.route("/mdr-fees/getmdrfees/00000004/<merchant>")
 def mdr_fees(merchant):
     """
         Versão 1.0 da API de vendas
         Retorna a massa de dados atribuída para o merchant escolhido
     """
     return reader.file_open("massa/mdr_fees/", merchant+".txt")
+
+
+@app.route("/service-order/consultaos/00000004/<merchant>")
+def service_order(merchant):
+    return reader.file_open("massa/service_order/", merchant + ".txt")
 
 
 app.run()

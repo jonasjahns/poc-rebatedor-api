@@ -7,7 +7,7 @@
          "dataProposta":"09-12-2019 00:00:00",
          "codigoMotivoRejeicao":null,
          "descricaoMotivoRejeicao":null,
-         "numeroMerchant":"98765432",
+         "numeroMerchant":"12345678",
          "codigoCredenciador":"1",
          "indicadorEcommerce":"0",
          "statusPropostas":[
